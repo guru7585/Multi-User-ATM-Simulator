@@ -55,6 +55,7 @@ public class ATMSystem
 			System.out.println("4. For Fund Transfer");
 			System.out.println("5. For Transaction History");
 			System.out.println("6. For Logout");
+			System.out.println("7. For Exit");
 			
 			System.out.print("Choose an Option among Above Options : - ");
 			
@@ -120,3 +121,4 @@ public class ATMSystem
 	}
 
 }
+
