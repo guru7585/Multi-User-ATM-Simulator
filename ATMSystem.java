@@ -109,6 +109,10 @@ public class ATMSystem
 				case 6 :
 					System.out.println("\nLogged Out Successfully !");
 					return;
+
+				case 7 :
+					System.out.println("\n***** Thank You For Visiting Our ATM. Have a Nice Day *****");
+					System.exit(0);
 					
 					
 				default :
@@ -121,4 +125,5 @@ public class ATMSystem
 	}
 
 }
+
 
